@@ -6,10 +6,10 @@ title: Research
 ### Working Papers
 
 ---
-**[Effective Tax Rates and Firm Size](https://camillesemelet.github.io/files/ETR_wp.pdf)** (*Submitted*)  
+**[Effective Tax Rates and Firm Size](https://camillesemelet.github.io/files/ETR_wp_CEPR.pdf)** (*Submitted*)  
 (with Pierre Bachas, Anne Brockmeyer and Roel Dom) 
 
-<sup>Presented at the 4th World Bank Tax Conference ([Video](https://worldbank.scene7.com/s7viewers/html5/VideoViewer.html?asset=worldbankprod/tax-conference-camille-semelet-AVS&config=worldbankprod/WB-Standard-Player-1&serverUrl=https://worldbank.scene7.com/is/image/&contenturl=https://worldbank.scene7.com/is/content/&posterimage=worldbankprod/tax-conference-camille-semelet-AVS&videoserverurl=https://worldbank.scene7.com/is/content)), the 2022 Annual Congress of the IIPF, and the PSE workshop in International Trade. Replication code [here](https://github.com/CamilleSemelet/International-Tax-Data-Lab).<sup> 
+<sup>Presented at the 4th World Bank Tax Conference ([Video](https://worldbank.scene7.com/s7viewers/html5/VideoViewer.html?asset=worldbankprod/tax-conference-camille-semelet-AVS&config=worldbankprod/WB-Standard-Player-1&serverUrl=https://worldbank.scene7.com/is/image/&contenturl=https://worldbank.scene7.com/is/content/&posterimage=worldbankprod/tax-conference-camille-semelet-AVS&videoserverurl=https://worldbank.scene7.com/is/content)), the 2022 Annual Congress of the IIPF, and the PSE workshop in International Trade. Coverage from  [UCL Stone Centre](https://www.stone-econ.org/research/effective-tax-rates-and-firm-size). Replication code [here](https://github.com/CamilleSemelet/International-Tax-Data-Lab).<sup> 
 
 <p align="justify">This paper provides novel evidence on the relationship between firm size and effective corporate tax rates, using full-population administrative tax data from 13 countries. In all countries, small firms face lower effective corporate tax rates than mid-sized firms due to reduced statutory tax rates and a higher propensity to register losses. In most countries, effective corporate tax rates fall for the largest firms due to the take-up of tax incentives. As a result, a third of the top 1 percent of firms face effective corporate tax rates below the global minimum tax of 15 percent. The minimum tax could raise corporate tax revenue by 27 percent in the median sample country.</p>
 
