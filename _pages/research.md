@@ -14,7 +14,7 @@ title: Research
 <p align="justify">This paper provides novel evidence on the relationship between firm size and effective corporate tax rates, using full-population administrative tax data from 13 countries. In all countries, small firms face lower effective corporate tax rates than mid-sized firms due to reduced statutory tax rates and a higher propensity to register losses. In most countries, effective corporate tax rates fall for the largest firms due to the take-up of tax incentives. As a result, a third of the top 1 percent of firms face effective corporate tax rates below the global minimum tax of 15 percent. The minimum tax could raise corporate tax revenue by 27 percent in the median sample country.</p>
 
 ---
-**[The Impact of COVID-19 on Formal Firms: Micro Tax Data Simulations across Countries](https://camillesemelet.github.io/files/covid_wp.pdf)**  
+**[The Impact of COVID-19 on Formal Firms: Micro Tax Data Simulations across Countries](https://camillesemelet.github.io/files/covid_WP.pdf)**  
 (with Pierre Bachas, Anne Brockmeyer)
   
 <sup>Presented at the 2021 Annual Congress of the IIPF. Coverage from the [Economics Observatory](https://www.economicsobservatory.com/how-does-lockdown-affect-firms-developing-countries) and [UCL Stone Centre](https://www.stone-econ.org/research/the-impact-of-covid-19-on-formal-firms-micro-tax-data-simulations-across-countries). Replication code [here](https://github.com/CamilleSemelet/International-Tax-Data-Lab).<sup>
