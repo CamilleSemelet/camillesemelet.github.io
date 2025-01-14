@@ -10,11 +10,9 @@ redirect_from:
 
 Hello!
 
-I am a PhD candidate in Economics at the ifo Institute and LMU Munich, and I am also a consultant for the World Bank. I work under the supervision of [Lisandra Flach](https://sites.google.com/site/lisandraflach). 
+**I am a PhD candidate in Economics at the ifo Institute and LMU Munich, currently visiting the Stanford Graduate School of Business for the winter of 2025.** I am also a consultant for the World Bank. I work under the supervision of [Lisandra Flach](https://sites.google.com/site/lisandraflach). 
 
-In my dissertation, I investigate questions related to Public Finance in a globalized world. 
-
-
+My main fields of interest are Public and International Economics. In my dissertation, I investigate questions related to domestic and international corporate taxation, focusing on how tax policies impact firms and economies.
 
 <!-- ---
 
