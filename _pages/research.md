@@ -2,6 +2,16 @@
 permalink: /research/
 title: Research
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R8Q4WS834Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R8Q4WS834Z');
+</script>
+
 
 ### Working Papers
 
