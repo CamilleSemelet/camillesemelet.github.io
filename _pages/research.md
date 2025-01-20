@@ -39,8 +39,8 @@ title: Research
 ### Work in Progress
 
 ---
-**Does the Global Minimum Tax Target the Aggresive Tax Planners?** (Working title, 
-with Sarah Clifford and Jakob Miethe)  
+**Does the Global Minimum Tax Target the Aggresive Tax Planners?** (Working title) 
+with Sarah Clifford and Jakob Miethe
 
-**Corporate Taxes and Economic Activity at Home and Abroad** (Working title, 
-with Sarah Clifford, Gerwin Kiessling and Jakob Miethe)
+**Corporate Taxes and Economic Activity at Home and Abroad** (Working title) 
+with Sarah Clifford, Gerwin Kiessling and Jakob Miethe
