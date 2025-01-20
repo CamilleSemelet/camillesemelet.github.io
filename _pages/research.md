@@ -25,7 +25,7 @@ title: Research
 
 ---
 **[The Impact of COVID-19 on Formal Firms: Lessons from Administrative Tax Data](https://camillesemelet.github.io/files/covid19_firm_impact_evaluation_2024.pdf)**  
-(with Pierre Bachas, Anne Brockmeyer and Pablo Garriga)_ Accepted at Journal of Development Economics_
+(with Pierre Bachas, Anne Brockmeyer and Pablo Garriga) _Accepted at Journal of Development Economics_
   
 <sup>Presented at the 2021 Annual Congress of the IIPF. Coverage from the [Economics Observatory](https://www.economicsobservatory.com/how-does-lockdown-affect-firms-developing-countries) and [UCL Stone Centre](https://www.stone-econ.org/research/the-impact-of-covid-19-on-formal-firms-micro-tax-data-simulations-across-countries). Replication code [here](https://github.com/CamilleSemelet/International-Tax-Data-Lab).<sup>
 
