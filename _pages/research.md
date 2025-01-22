@@ -12,8 +12,17 @@ title: Research
   gtag('config', 'G-R8Q4WS834Z');
 </script>
 
+### Publication
+---
+**[The Impact of COVID-19 on Formal Firms: Lessons from Administrative Tax Data](https://camillesemelet.github.io/files/covid19_firm_impact_evaluation_2024.pdf)**  
+(with Pierre Bachas, Anne Brockmeyer and Pablo Garriga) 
+_Forthcoming, Journal of Development Economics_
+  
+<sup>Presented at the 2021 Annual Congress of the IIPF. Coverage from the [Economics Observatory](https://www.economicsobservatory.com/how-does-lockdown-affect-firms-developing-countries) and [UCL Stone Centre](https://www.stone-econ.org/research/the-impact-of-covid-19-on-formal-firms-micro-tax-data-simulations-across-countries). Replication code [here](https://github.com/CamilleSemelet/International-Tax-Data-Lab).<sup>
 
-### Working Papers
+<p align="justify">Most low-income countries lack high-frequency firm-level data to monitor the effect of economic shocks in real time. We examine whether administrative tax data can help fill this gap, in the context of the COVID-19 pandemic. In spring 2020, we used the full population of corporate tax returns for 2019 in six developing countries to predict the effect of COVID-induced shocks on formal firms' activity. Comparing the predictions to the realized 2020 data, we find that firms were more resilient than predicted: the share of unprofitable firms increased by only 7 percentage points, while aggregate profits and taxes paid remained stable. The simulations failed to anticipate that labor and capital inputs would flexibly adjust and that large firms would be very resilient. Complementing our simulations with higher-frequency VAT data would have markedly improved predictions.</p>
+
+### Working Paper
 
 ---
 **[Effective Tax Rates and Firm Size](https://camillesemelet.github.io/files/ETR_wp_CEPR.pdf)**  
@@ -24,14 +33,6 @@ _Submitted_
 
 <p align="justify">We document new facts on corporate taxation and the revenue potential of corporate minimum taxes, leveraging firm-level tax returns from 16 countries. First, effective taxes rates (ETRs) follow a humped-shaped pattern with firm size: small firms benefit from reduced rates, while large firms take up tax incentives, leaving mid-sized firms with the highest ETRs. On average, the ETR for the largest 1% of firms is 2.2 percentage points lower than the average ETR for top decile firms. Second, although statutory tax rates are above 15% in all sample countries, over a quarter of top firms face an ETR below 15%, challenging the simple tax haven vs non-haven dichotomy. Third, a simple 15% domestic minimum tax for the top 1% firms could raise corporate taxes by 14% on average across countries, absent behavioral responses. In contrast, the global minimum top-up tax would only raise a quarter of this revenue due to its generous deductions and a smaller number of firms in scope.</p>
 
----
-**[The Impact of COVID-19 on Formal Firms: Lessons from Administrative Tax Data](https://camillesemelet.github.io/files/covid19_firm_impact_evaluation_2024.pdf)**  
-(with Pierre Bachas, Anne Brockmeyer and Pablo Garriga) 
-_Accepted at Journal of Development Economics_
-  
-<sup>Presented at the 2021 Annual Congress of the IIPF. Coverage from the [Economics Observatory](https://www.economicsobservatory.com/how-does-lockdown-affect-firms-developing-countries) and [UCL Stone Centre](https://www.stone-econ.org/research/the-impact-of-covid-19-on-formal-firms-micro-tax-data-simulations-across-countries). Replication code [here](https://github.com/CamilleSemelet/International-Tax-Data-Lab).<sup>
-
-<p align="justify">Most low-income countries lack high-frequency firm-level data to monitor the effect of economic shocks in real time. We examine whether administrative tax data can help fill this gap, in the context of the COVID-19 pandemic. In spring 2020, we used the full population of corporate tax returns for 2019 in six developing countries to predict the effect of COVID-induced shocks on formal firms' activity. Comparing the predictions to the realized 2020 data, we find that firms were more resilient than predicted: the share of unprofitable firms increased by only 7 percentage points, while aggregate profits and taxes paid remained stable. The simulations failed to anticipate that labor and capital inputs would flexibly adjust and that large firms would be very resilient. Complementing our simulations with higher-frequency VAT data would have markedly improved predictions.</p>
 
 
 ### Work in Progress
