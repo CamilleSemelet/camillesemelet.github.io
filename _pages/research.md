@@ -38,7 +38,7 @@ _**R&R Journal of Public Economics**_
 ### Work in Progress
 
 ---
-**Does the Global Minimum Tax Target the Aggresive Tax Planners?** (Working title) 
+**The Distribution of Profit Shifting?** (Working Paper out soon, Draft on Request) 
 with Sarah Clifford and Jakob Miethe
 
 **Corporate Taxes and Economic Activity at Home and Abroad** (Working title) 
