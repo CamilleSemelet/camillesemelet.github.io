@@ -21,7 +21,7 @@ Hello!
 
 I am a PhD candidate in Economics at the University of Munich (LMU) and at the ifo Institute, working under the supervision of [Lisandra Flach](https://sites.google.com/site/lisandraflach). I am also a consultant for the World Bank.
 
-I am visting the Stanford Graduate School of Business from January to March 2025, hosted by Juan Carlos Suárez Serrato.
+I visted the Stanford Graduate School of Business in Winter 2025, hosted by Juan Carlos Suárez Serrato.
 
 My main fields of interest are Public Finance and International Economics. In my dissertation, I investigate questions related to domestic and international corporate taxation, focusing on how tax policies impact firms and economies. 
 
