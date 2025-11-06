@@ -19,7 +19,7 @@ redirect_from:
 
 Hello!
 
-I am a PhD candidate in Economics at the University of Munich (LMU) and at the ifo Institute, working under the supervision of Lisandra Flach and Clemens Fuest. I am also a consultant for the World Bank.
+I am a PhD candidate in Economics at the University of Munich (LMU) and at the ifo Institute, supervised by Lisandra Flach and Clemens Fuest. I am also a consultant for the World Bank.
 
 I visited the Stanford Graduate School of Business in Winter 2025, hosted by Juan Carlos Suárez Serrato.
 
