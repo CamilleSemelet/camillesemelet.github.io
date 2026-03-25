@@ -40,7 +40,7 @@ _**R&R Journal of Public Economics**_
 **Shifting for Real: Investment Responses to the U.S. Minimum Tax**
 
 **The Distribution of Profit Shifting**  
-with Sarah Clifford and Jakob Miethe) 
+with Sarah Clifford and Jakob Miethe
 
 **Corporate Taxes and Economic Activity at Home and Abroad** (Working title) 
 with Sarah Clifford, Gerwin Kiessling and Jakob Miethe
