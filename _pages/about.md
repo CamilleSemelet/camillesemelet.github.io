@@ -19,9 +19,9 @@ redirect_from:
 
 Hello!
 
-I am a PhD candidate in Economics at the University of Munich (LMU) and at the ifo Institute, supervised by Lisandra Flach and Clemens Fuest. I am also a consultant for the World Bank.
+I am a PhD candidate in Economics at the University of Munich (LMU) and at the ifo Institute, supervised by Lisandra Flach and Clemens Fuest. I am also a consultant for the World Bank. 
 
-I visited the Stanford Graduate School of Business in Winter 2025, hosted by Juan Carlos Suárez Serrato.
+I will join the Stanford Graduate School of Business as a postdoctoral researcher in August 2026. 
 
 I am a public economist with interests in corporate and international taxation. My research explores how tax policies affect the allocation of activities within and across firms.
 
