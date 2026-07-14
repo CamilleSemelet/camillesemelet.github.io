@@ -27,7 +27,7 @@ title: Research
 ---
 **[Effective Tax Rates and Firm Size](https://camillesemelet.github.io/files/ETR_wp_CEPR.pdf)**  
 (with Pierre Bachas, Anne Brockmeyer and Roel Dom) 
-_**R&R Journal of Public Economics**_
+_**Conditionally Accepted, Journal of Public Economics**_
 
 <sup>Presented at the 4th World Bank Tax Conference ([Video](https://worldbank.scene7.com/s7viewers/html5/VideoViewer.html?asset=worldbankprod/tax-conference-camille-semelet-AVS&config=worldbankprod/WB-Standard-Player-1&serverUrl=https://worldbank.scene7.com/is/image/&contenturl=https://worldbank.scene7.com/is/content/&posterimage=worldbankprod/tax-conference-camille-semelet-AVS&videoserverurl=https://worldbank.scene7.com/is/content)), the 2022 Annual Congress of the IIPF, and the PSE workshop in International Trade. Coverage from  [UCL Stone Centre](https://www.stone-econ.org/research/effective-tax-rates-and-firm-size). Replication code [here](https://github.com/CamilleSemelet/International-Tax-Data-Lab).<sup> 
 
