@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Camille Semelet"
   avatar           : "Semelet_photo.PNG"
-  bio              : # "PhD candidate"
-  location         : # "Munich, Germany"
-  employer         : # ifo Institute and LMU Munich"
+  bio              : # "Post Doc"
+  location         : # "Stanford, CA, USA"
+  employer         : # "Stanford Graduate School of Business"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "semelet@ifo.de"
+  email            : "csemelet@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
