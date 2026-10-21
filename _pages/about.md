@@ -19,9 +19,9 @@ redirect_from:
 
 Hello!
 
-I am a PhD candidate in Economics at the University of Munich (LMU) and at the ifo Institute, supervised by Lisandra Flach and Clemens Fuest. I am also a consultant for the World Bank. 
+I am a postdoctoral researcher at the Stanford GSB and the [Stanford Tax Lab](https://stax.stanford.edu/).
 
-I will join the Stanford Graduate School of Business as a postdoctoral researcher in August 2026. 
+I completed my PhD in Economics at the University of Munich (LMU) and the ifo Institute, supervised by Lisandra Flach and Clemens Fuest. 
 
 I am a public economist with interests in corporate and international taxation. My research explores how tax policies affect the allocation of activities within and across firms.
 
